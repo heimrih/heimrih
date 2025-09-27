@@ -17,12 +17,12 @@
 
 ---
 
-## 🎯 Summary
+##  Summary
 Graduate student specializing in computer vision, robotics, and intelligent systems. Currently pursuing an M.S. in System Information Sciences with research on **Vision-Language-Action (VLA) Models** for robotic manipulation. Experienced with end-to-end AI systems (deep learning, computer vision, time-series forecasting) and modern MLOps. Comfortable with **Python, PyTorch, Docker, Git**. I enjoy building models that work **in the real world**—from simulation to deployment.
 
 ---
 
-## 🎓 Education
+##  Education
 **M.Sc. in System Information Sciences**, *Tohoku University* (2024–Present), Sendai, Japan  
 Research: VLA models for robotic manipulation; coursework in computer vision, space robotics, high-performance computing, NLP, and control systems.
 
@@ -31,9 +31,9 @@ GPA: **3.81** · Focus: robotics, automation, image processing.
 
 ---
 
-## 💼 Experience
+##  Experience
 **Engineering Intern**, *Nissan Motor Corporation* (Aug 2025 – Sep 2025)  
-- RL for robot-arm manipulation in **Isaac Lab**  
+- Reinforcement Learning for robot-arm manipulation in **Isaac Lab**  
 - Vision for camera-based robotic perception  
 - Assisted dataset generation for **VLA** models
 
@@ -50,18 +50,18 @@ GPA: **3.81** · Focus: robotics, automation, image processing.
 
 ---
 
-## 🔬 Projects
+##  Projects
 **Vision-Language-Action for Robotic Manipulation** (2025– )  
 - Applying pretrained VLMs for **zero/few-shot** control in unseen environments  
 - Emphasis on **generalization** to new manipulation tasks in simulation
 
-**Finetuning LLMs for Format Adherence** (2025)  
+**Finetuning Large Language Models for Format Adherence** (2025)  
 - Finetuned models to enforce structured outputs; compared with zero-shot prompts
 
 **Simulated Annealing for Warehouse Optimization** (2021)  
 - Reduced picking distance via order batching in multi-level warehouses (FYP)
 
-**TurtleBot Navigation with RL** (2020)  
+**TurtleBot Navigation with Reinforcement Learning** (2020)  
 - Goal-directed navigation in **Gazebo** using RL
 
 **Face Mask Detector (CNN)** (2020)  
@@ -69,7 +69,7 @@ GPA: **3.81** · Focus: robotics, automation, image processing.
 
 ---
 
-## 📝 Publications
+##  Publications
 - **H. L. M. Kee**, N. Ahmad, M. A. M. Izhar, K. Anwar, S. X. Ng,  
   “A Review on Machine Learning for Channel Coding,” *IEEE Access*, 2024.  
   DOI: [10.1109/ACCESS.2024.3412192](https://doi.org/10.1109/ACCESS.2024.3412192)
@@ -80,7 +80,7 @@ GPA: **3.81** · Focus: robotics, automation, image processing.
 
 ---
 
-## 🛠️ Skills
+##  Skills
 **Languages:** Python, C++, MATLAB, SQL  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face, OpenCV  
 **Robotics:** ROS, Gazebo, Arduino, Raspberry Pi  
@@ -88,23 +88,23 @@ GPA: **3.81** · Focus: robotics, automation, image processing.
 
 ---
 
-## 🔎 Research Interests
+##  Research Interests
 Computer Vision · Large Language Models (LLMs) · Vision-Language Models (VLMs) · NLP · Robotics · Multimodal Reasoning
 
 ---
 
-## 🧾 Certifications
+##  Certifications
 - **TOEFL iBT:** 107/120 (May 2023)  
 - **JLPT N2:** 145/180 (Dec 2021)
 
 ---
 
-## 🌍 Languages
+##  Languages
 English (Fluent) · Malay (Fluent) · Mandarin (Conversational) · Japanese (Conversational)
 
 ---
 
-## 🤝 Extracurricular
+##  Extracurricular
 **RoboCup Asia-Pacific** — RoboCup@Home Challenge (Dec 2018) · *2nd Place*  
 **Global Mobility Program** — Shibaura Institute of Technology (Aug 2018) · Exchange-based project work
 
