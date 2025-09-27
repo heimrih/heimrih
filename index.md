@@ -4,14 +4,14 @@
 
   <img src="images/photo.jpg" alt="Heimrih Lim Meng Kee" width="140" style="border-radius:50%;">
 
-  # Heimrih Lim Meng Kee
-
-  **Graduate Student, Tohoku University**  
-  🇯🇵 Japan
-
-  [Email](mailto:lim.heimrih.meng.kee.p8@dc.tohoku.ac.jp) ·
-  [LinkedIn](https://www.linkedin.com/in/heimrih-lim-257277198/) ·
-  [GitHub](https://github.com/heimrih)
+  <h1 style="margin:12px 0 6px">Heimrih Lim Meng Kee</h1>
+  <p><strong>Graduate Student, Tohoku University</strong></p>
+  <p>Japan</p>
+  <p>
+    <a href="mailto:heimrih214@gmail.com">Email</a> ·
+    <a href="https://www.linkedin.com/in/heimrih-lim-257277198/">LinkedIn</a> ·
+    <a href="https://github.com/heimrih">GitHub</a>
+  </p>
 
 </div>
 
