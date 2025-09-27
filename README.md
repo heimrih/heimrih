@@ -1,6 +1,6 @@
 # Heimrih Lim Meng Kee
 Graduate Student, Tohoku University  
-📧 [heimrih214@gmail.com](mailto:heimrih214@gmail.com) | 📍 Japan  
+📧 [lim.heimrih.meng.kee.p8@dc.tohoku.ac.jp](mailto:lim.heimrih.meng.kee.p8@dc.tohoku.ac.jp) | 📍 Japan  
 🔗 [LinkedIn](https://www.linkedin.com/in/heimrih-lim-257277198/) | [GitHub](https://github.com/heimrih)
 
 ---
@@ -42,8 +42,8 @@ Graduate Student, Tohoku University
 ---
 
 ## 📄 Publications
-- H. L. M. Kee *et al.*, “A Review on Machine Learning for Channel Coding,” *IEEE Access*, 2024.  
-- H. L. M. Kee *et al.*, “Simulated Annealing Approach for Optimal Batching in a Warehouse,” *ICSSA 2022*.  
+  \item \textbf{H. L. M. Kee}, N. Ahmad, M. A. M. Izhar, K. Anwar, and S. X. Ng, ``A Review on Machine Learning for Channel Coding,'' \textit{IEEE Access}, vol. 12, pp. 89002--89025, 2024, doi: \href{https://doi.org/10.1109/ACCESS.2024.3412192}{10.1109/ACCESS.2024.3412192}.
+  \item \textbf{H. L. M. Kee}, Z. H. Ismail, N. B. Ahmad, and M. A. M. Izhar, ``Simulated Annealing Approach for Optimal Batching in a Warehouse,'' \textit{Proc. of the 4th Int. Conf. on Smart Sensors and Application (ICSSA)}, Kuala Lumpur, Malaysia, 2022, pp. 120--125, doi: \href{https://doi.org/10.1109/ICSSA54161.2022.9870969}{10.1109/ICSSA54161.2022.9870969}.
 
 ---
 
