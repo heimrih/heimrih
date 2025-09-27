@@ -1,6 +1,6 @@
 # Heimrih Lim Meng Kee
 Graduate Student, Tohoku University  
-📧 [heimrih214@gmail.com](mailto:heimrih214@gmail.com) | 📱 +81-90-8185-8998 | 📍 Japan  
+📧 [heimrih214@gmail.com](mailto:heimrih214@gmail.com) | 📍 Japan  
 🔗 [LinkedIn](https://www.linkedin.com/in/heimrih-lim-257277198/) | [GitHub](https://github.com/heimrih)
 
 ---
